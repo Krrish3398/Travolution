@@ -27,4 +27,7 @@ Limit switch is one kind of force sensor. In this project, it is used to detect 
  
 ![alt text](https://github.com/Krrish3398/Travolution/blob/master/New-Microsoft-Office-Word-Document-_2_.jpg)
 
+# Demo
 
+[Demo--1](https://github.com/Krrish3398/Travolution/blob/master/Travolution_modified_final/Demo1.mp4)
+[Demo--2](https://github.com/Krrish3398/Travolution/blob/master/Travolution_modified_final/Demo2.mp4)
