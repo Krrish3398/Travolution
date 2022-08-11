@@ -35,9 +35,7 @@ Limit switch is one kind of force sensor. In this project, it is used to detect 
 
 # Reference
 
-http://articles.timesofindia.indiatimes.com/2009-08-17/india/28181973_1_road-accidents-road-fatalities-global-road-safety
-
-http://zeenews.india.com/news/nation/india-no-1-in-roadaccident-deaths_704455.html
+http://www.jhtransport.gov.in/causes-of-road-accidents.html
 
 https://www.arduino.cc/education
 
